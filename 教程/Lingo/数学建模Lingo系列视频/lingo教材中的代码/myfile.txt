@@ -1,0 +1,4 @@
+Seattle,Detroit,Chicago,Denvtr~
+Cost,Need~
+12,28,15,20~
+1600,1800,1200,1000
