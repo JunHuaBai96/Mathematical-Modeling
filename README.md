@@ -5,7 +5,7 @@
 2022年江苏省赛获奖论文。
 
 ## 教程
-包含matlab、Excel、Lingo课程讲义，其中Lingo课程相关视频链接：https://www.bilibili.com/video/BV1CT4y177qS/?spm_id_from=333.999.0.0&vd_source=20d1344d1cc02239bf154a1664ad9fe0 https://www.bilibili.com/video/BV1Kb41167QZ/?spm_id_from=333.999.0.0&vd_source=20d1344d1cc02239bf154a1664ad9fe0
+包含matlab、Excel、Lingo课程讲义，其中Lingo课程相关视频链接：https://www.bilibili.com/video/BV1CT4y177qS/?spm_id_from=333.999.0.0&vd_source=20d1344d1cc02239bf154a1664ad9fe0 
 
 ## 模型与算法
 常考模型与算法，包含相关课程讲义与代码，课程链接：https://www.bilibili.com/video/BV1Kb41167QZ/?spm_id_from=333.999.0.0&vd_source=20d1344d1cc02239bf154a1664ad9fe0
